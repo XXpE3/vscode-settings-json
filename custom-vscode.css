@@ -262,3 +262,9 @@
     background-size: contain !important;
     width: 60% !important;
 }
+
+canvas.decorationsOverviewRuler {
+  width: 0px !important;
+  min-width: 0px !important;
+  max-width: 0px !important;
+}
